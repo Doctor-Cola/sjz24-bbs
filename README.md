@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="https://lovecards.cn/" alt="logo" ><img src="https://s11.ax1x.com/2024/01/11/pFCilx1.png" width="150"/></a>
+  <a href="https://www.sjz24z.com/cmshtml/xxjj/33.any" alt="logo" ><img src="https://s11.ax1x.com/2024/01/11/pFCilx1.png" width="150"/></a>
   <br>
   LoveCards
   <br>
 </h1>
-<h4 align="center">由你筑起的“领域” 众人皆可“倾心倾意”.</h4>
+<h4 align="center">石家庄市第二十四中学BBS”.</h4>
 
 <p align="center">
   <a href="https://github.com/zhiguai/LoveCards/releases">
