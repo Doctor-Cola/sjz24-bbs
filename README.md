@@ -2,10 +2,10 @@
   <br>
   <a href="https://www.sjz24z.com/cmshtml/xxjj/33.any" alt="logo" ><img src="/24logo.png" width="150"/></a>
   <br>
-  LoveCards
+  石家庄市第二十四中学BBS
   <br>
 </h1>
-<h4 align="center">石家庄市第二十四中学BBS”.</h4>
+
 
 ## 🌟 亮点
 
