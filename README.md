@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.sjz24z.com/cmshtml/xxjj/33.any" alt="logo" ><img src="/24logo" width="150"/></a>
+  <a href="https://www.sjz24z.com/cmshtml/xxjj/33.any" alt="logo" ><img src="/24logo.png" width="150"/></a>
   <br>
   LoveCards
   <br>
